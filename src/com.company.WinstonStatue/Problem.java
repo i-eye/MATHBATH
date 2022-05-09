@@ -1,3 +1,5 @@
+package com.company.WinstonStatue;
+
 public class Problem {
     //instance variables
     private final int points;
